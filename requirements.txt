@@ -1,0 +1,6 @@
+#progress bar 
+tqdm 
+#audio analysis 
+librosa 
+#movie editor 
+
