@@ -1,8 +1,8 @@
 # Deep Music Visualizer
 The Deep Music Visualizer uses BigGAN (Brock et al., 2018), a generative neural network, to visualize music. Like this:
 
-#Open in Google Colab
-"https://colab.research.google.com/github/Ease78/Deep-Music-Visualizer-Google-Colab/blob/master/DeepMusicVisualizer.ipynb"
+# Open in Google Colab
+``` https://colab.research.google.com/github/Ease78/Deep-Music-Visualizer-Google-Colab/blob/master/DeepMusicVisualizer.ipynb```
 
 
 [![Alt text](https://img.youtube.com/vi/L7R-yBZ5QYc/0.jpg)](https://www.youtube.com/watch?v=L7R-yBZ5QYc)
